@@ -1,5 +1,4 @@
 # RBot
-RBot é uma macro que automatiza o desktop para produzir o Reset/Master Reset no MuAwaY.
 
 <br/>No momento o Master Reset so funciona com Magic Gladiator(MG).
 <br/>Tem apenas um mapa pra upar, npcpk.
