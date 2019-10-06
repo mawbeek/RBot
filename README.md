@@ -3,7 +3,7 @@ RBot é uma macro que automatiza o desktop para produzir o Reset/Master Reset no
 
 <br/>No momento o Master Reset so funciona com Magic Gladiator(MG).
 <br/>Tem apenas um mapa pra upar, npcpk.
-<br/>Usar Blade Knight(BK) so pra resets normais.\n
+<br/>Usar Blade Knight(BK) so pra resets normais.
 
 <br/>O Programa busca na tela os dados específicos pra efetuar o Resete, por isso são necessários alguns ajustes.
 <br/>Predefiniçoes:
