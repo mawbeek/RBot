@@ -24,4 +24,4 @@ RBot é uma macro que automatiza o desktop para produzir o Reset/Master Reset no
 
 <br/>Como usar:
 <br/>Inicie o MuAway.
-<br/>Execute o MacroReset.exe como administrador(na tela de servidores).
+<br/>Execute o RBot.exe como administrador(na tela de servidores).
