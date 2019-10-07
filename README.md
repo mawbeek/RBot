@@ -8,7 +8,6 @@
 <br/>Tem apenas um mapa pra upar, npcpk.
 <br/>Usar Blade Knight(BK) so pra resets normais.
 
-<br/>O Programa busca na tela os dados específicos pra efetuar o Resete, por isso são necessários alguns ajustes.
 <br/>Predefiniçoes:
 <br/>*Barra de tarefas oculta.
 <br/>*Resolução de tela: 1366x768.
