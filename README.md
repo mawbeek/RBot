@@ -1,4 +1,4 @@
-# RBot
+# RBot [maintenance]
 
 <p align="center">
   <img width="253" height="365" src="https://github.com/nageseio/RBot/raw/master/Rbot.png">
