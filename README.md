@@ -1,7 +1,7 @@
 # RBot
 
 <p align="center">
-  <img width="253" height="365" src="https://github.com/nageseio/RBot/raw/master/Rbot.png">
+  <img width="263" height="393" src="https://github.com/nageseio/RBot/raw/master/Rbot.png">
 </p>
 
 <br/>No momento o Master Reset so funciona com Magic Gladiator(MG).
